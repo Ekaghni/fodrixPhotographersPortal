@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "104676425822",
+    "project_id": "fodrix-application",
+    "storage_bucket": "fodrix-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104676425822:android:629d262a34c53e069734cf",
+        "android_client_info": {
+          "package_name": "com.generic_corp.fodrixapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104676425822-8t3a55gfsrr3ds4g7lcvrskulo7h6m12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2fp0iUawnjWzmTVHuo_GkwqfyVZjTrf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104676425822-8t3a55gfsrr3ds4g7lcvrskulo7h6m12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104676425822:android:8fc6c9e017941e6e9734cf",
+        "android_client_info": {
+          "package_name": "com.generic_corp.fodrixphotographersportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104676425822-8t3a55gfsrr3ds4g7lcvrskulo7h6m12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2fp0iUawnjWzmTVHuo_GkwqfyVZjTrf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104676425822-8t3a55gfsrr3ds4g7lcvrskulo7h6m12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
